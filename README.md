@@ -1,5 +1,5 @@
 <H1>Quiz Application</H1>
-<h2 >ReactJs + Tailwind CSS</h2>
+<h2 >JAVA AWT,JAVA SWING</h2>
 <b>What you will learn in this section:</b>
 <hr>
 <h4>Features</h4><br>
@@ -11,9 +11,11 @@
 <br>
 <h5>Images</h5>
 <img src="https://github.com/user-attachments/assets/5462a32e-ebed-4d05-8103-45de3242e615">
+<img src="https://github.com/user-attachments/assets/7367cf21-1404-4500-a935-d123ea468e23">
 
-
-<br>
-<H2 >Demo</H2>
-https://react-tailwind-spotify-demo.netlify.app/
+<h4>Setup and Execution</h4>
+-Ensure you have Java installed on your system.<br>
+-Clone the repository to your local machine.<br>
+-Compile the project using a Java IDE or the command line.<br>
+-Run the Quiz class to start the application.<br>
 
